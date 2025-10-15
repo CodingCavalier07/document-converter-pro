@@ -1,0 +1,12 @@
+document-converter/
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+│   └── assets/
+├── backend/
+│   ├── app.py
+│   ├── requirements.txt
+│   └── conversion_utils.py
+├── uploads/
+└── converted/

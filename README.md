@@ -21,3 +21,9 @@ A free online tool to convert documents between PDF, DOCX, DOC, RTF, TXT, ODT, a
 🚧 **In Development** - Following step-by-step implementation
 
 ## 📂 Current Structure
+
+## 🎯 Next Steps
+- [ ] Add Python Flask backend
+- [ ] Implement actual file conversion
+- [ ] Add user accounts
+- [ ] Deploy to production

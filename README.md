@@ -1,20 +1,23 @@
 # Document Converter Pro
 
-A free online tool to convert documents between PDF, DOCX, DOC, RTF, TXT, ODT, and MD formats.
+A free online tool to convert documents between PDF, DOCX, DOC, RTF, TXT, ODT, and MD formats. Built with simplicity and security in mind.
 
-## Features
-- 🚀 Fast conversions
-- 🔒 Secure file handling
-- 💰 Free tier + Premium options
-- 📱 Responsive design
+## ✨ Features
+- 🚀 **Fast Conversions** - Process documents in seconds
+- 🔒 **Secure** - Files are deleted after conversion
+- 💻 **Responsive** - Works on all devices
+- 🆓 **Free Tier** - Limited conversions for free users
+- 💰 **Premium Options** - Unlimited conversions for power users
 
-## Live Demo
-[Coming soon]
+## 🛠️ Tech Stack
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Backend**: Python Flask
+- **Deployment**: Vercel (Frontend) + Heroku (Backend)
 
-## Tech Stack
-- Frontend: HTML, CSS, JavaScript
-- Backend: Python Flask
-- Deployment: Vercel + Heroku
+## 🚀 Live Demo
+[Coming Soon]
 
-## Development
-This project is built step-by-step. Follow the commits to see the progression!
+## 📁 Project Status
+🚧 **In Development** - Following step-by-step implementation
+
+## 📂 Current Structure
